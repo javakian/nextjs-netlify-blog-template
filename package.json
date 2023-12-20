@@ -11,12 +11,12 @@
   },
   "dependencies": {
     "@mapbox/rehype-prism": "^0.5.0",
-    "@svgr/webpack": "^5.4.0",
+    "@svgr/webpack": "^6.0.0",
     "@types/js-yaml": "^3.12.5",
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
     "js-yaml": "^3.14.0",
-    "next": "9.5.1",
+    "next": "10.0.2",
     "next-mdx-enhanced": "^3.1.0",
     "normalize.css": "^8.0.1",
     "react": "16.13.1",
@@ -31,7 +31,7 @@
     "@types/jest": "^26.0.9",
     "@types/node": "^13.11.0",
     "@types/react": "^16.9.32",
-    "jest": "^26.3.0",
+    "jest": "^27.0.0",
     "ts-jest": "^26.2.0",
     "typescript": "^3.8.3",
     "yaml-loader": "^0.6.0"
